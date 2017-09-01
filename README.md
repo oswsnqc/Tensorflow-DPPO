@@ -4,5 +4,5 @@ self implementation of DPPO, Distributed Proximal Policy Optimization, by using 
 the loss calculation is used from OPENAI PPO.
 the Distributed architecture design is inspired from Deepmind paper.
 
-![alt text](Tensorflow-DPPO/DPPO.png)
+![TENSORFLOW_MODEL](Tensorflow-DPPO/DPPO.png)
 
