@@ -6,8 +6,3 @@ the Distributed architecture design is inspired from Deepmind paper.
 
 ![TENSORFLOW_MODEL](DPPO.png)
 
-![epoch_1900](Tensorflow-DPPO/DPPO.png)
-
-
-Tensorflow-DPPO/DPPO.png
-
